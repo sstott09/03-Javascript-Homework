@@ -1,2 +1,2 @@
 # 03-Javascript-Homework
-Beer Style Word Guessing-Game
+Beer-Style Word Guessing Game
