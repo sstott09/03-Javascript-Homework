@@ -1,2 +1,2 @@
 # 03-Javascript-Homework
-Psychic-Game
+Beer Style Word Guessing-Game
