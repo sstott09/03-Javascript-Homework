@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Beer-Styles</title>
+    <link rel="stylesheet" type="text/css" href="assets/css/reset.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+</head>
+
+<!--Main-->
+
+<body onload="startGame()">
+    <div id="container">
+        <h1 class="titleOfGame">Beer-Style Guessing Game</h1>
+
+        <div class="game-section">
+            <h2>Press any key to start the game</h2>
+
+        </div>
+        <div id="current-word-section">
+            <h3 class="currentWordTag">Current Word:
+                <div id="current-word"></div>
+            </h3>
+
+        </div>
+        <div id="letters-guessed-section">
+            <h3 class="lettersGuessedTag">Letters Guessed: </h3>
+            <div id="letters-guessed"></div>
+
+        </div>
+        <div id="guesses-section">
+            <h3 class="guessLeftTag">Number of Guesses Left: </h3>
+            <h4>Refresh page to restart game...</h4>
+            <div id="guessLeft"></div>
+
+
+        </div>
+
+    </div>
+
+    <footer>
+        <p>
+            &copy 2019, Steven M Stott
+            All Rights Reserved.
+        </p>
+        </div>
+
+        <!--Javascript-->
+        <script type="text/javascript" src="assets/javascript/game.js"></script>
+
+
+</body>
+
+</html>
