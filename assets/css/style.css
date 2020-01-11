@@ -3,7 +3,7 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777777;
-    background-image: url("../images/Beers\ Background.jpeg");
+    background-image: url("../images/beers\ background-uc.jpg");
     background-size: 1850px;
     resize: both;
     overflow: scroll;
@@ -27,7 +27,7 @@ body {
   {
     font-family: Georgia, Times, "Times New Roman", serif;
     font-weight: 700;
-    color: #4aaaa5;
+    color: #3032c0;
     padding-top: 20px;
     padding-left: 20px;
     margin-left: 1000px;
